@@ -150,7 +150,7 @@ missing_care_dat_long %>%
   coord_flip()
 ```
 
-![](week-1_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-6-1.png?raw=true)<!-- -->
 
 ``` r
 # create columns to count the number of benefits and assistances(?) in each observation
@@ -205,7 +205,7 @@ mean_benefits_and_assistance %>%
        subtitle = 'April 2020 - June 2021')
 ```
 
-![](week-1_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-7-1.png?raw=true)<!-- -->
 
 ### Part 4: Attempting to find program enrollment dates for each client
 
@@ -306,7 +306,7 @@ time_to_first_ride_data %>%
        x = 'Time to first ride (days)')
 ```
 
-![](week-1_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-10-1.png?raw=true)<!-- -->
 
 ### Part 6: Time between enrollment date and first pantry visit
 
@@ -358,7 +358,7 @@ time_to_first_pantry_visit_data %>%
        x = 'Time to first pantry visit (days)')
 ```
 
-![](week-1_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-11-1.png?raw=true)<!-- -->
 
 ### Part 7: Conclusion
 
