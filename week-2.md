@@ -88,7 +88,7 @@ benefit_1_tabulation %>%
         plot.subtitle = element_text(hjust = 0.5))
 ```
 
-![](week-2_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-3-1.png?raw=true)<!-- -->
 
 ### Part 3: Alluvial plot of `Benefit_1` interactions for clients with up to 5 interactions
 
@@ -130,7 +130,7 @@ benefit_1_tabulation %>%
        title = 'Figure 2: ElderNet Client Interactions')
 ```
 
-![](week-2_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-4-1.png?raw=true)<!-- -->
 
 This is what Figure 2 looks like with the `Benefit_1` = `ElderNet`
 observations omitted. It is much easier to interpret: the plot indicates
@@ -173,7 +173,7 @@ care_management_anonymized %>%
        subtitle = 'Benefit_1 = ElderNet observations omitted, 220 / 490 clients at start')
 ```
 
-![](week-2_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-5-1.png?raw=true)<!-- -->
 
 ### Part 4: Clients with 5 or more interactions
 
@@ -233,7 +233,7 @@ care_management_anonymized %>%
        subtitle = 'Benefit_1 = ElderNet observations omitted, 111 / 490 clients at start')
 ```
 
-![](week-2_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-7-1.png?raw=true)<!-- -->
 
 ### Part 5: Conclusion
 
