@@ -127,7 +127,7 @@ time_to_first_ride_data_revised %>%
        x = 'Time to first ride (days)')
 ```
 
-![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-4-1.png?raw=true)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/fig1week1a.png?raw=true)<!-- -->
 
 ### Part 4: Revisiting `time_to_first_pantry_visit`
 
@@ -166,4 +166,4 @@ time_to_first_pantry_visit_data_revised %>%
        x = 'Time to first pantry visit (days)')
 ```
 
-![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-5-1.png?raw=true)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/fig2week1a.png?raw=true)<!-- -->
