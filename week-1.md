@@ -205,7 +205,7 @@ mean_benefits_and_assistance %>%
        subtitle = 'April 2020 - June 2021')
 ```
 
-![](https://github.com/ghbutler/datathon2022/blob/main/unnamed-chunk-7-1.png?raw=true)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/fig2week1.png?raw=true)<!-- -->
 
 ### Part 4: Attempting to find program enrollment dates for each client
 
