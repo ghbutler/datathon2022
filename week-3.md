@@ -131,7 +131,7 @@ first_5_benefit_1_wide %>%
        subtitle = '220 / 490 clients, including clients with <5 interactions')
 ```
 
-![](week-3_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/week3fig1a.png?raw=true)<!-- -->
 
 ``` r
 first_5_benefit_1_wide %>%
@@ -161,7 +161,7 @@ first_5_benefit_1_wide %>%
        subtitle = '111 / 490 clients, including clients with at least 5 total interactions')
 ```
 
-![](week-3_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/week3fig1b.png?raw=true)<!-- -->
 
 The next figure is an incomplete attempt at answering Katherine
 McAulay’s first question in the pathways channel.
@@ -240,7 +240,7 @@ very_long_benefits %>%
   scale_x_continuous(breaks = c(2, seq(10, 50, 10)))
 ```
 
-![](week-3_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/week3fig1c.png?raw=true)<!-- -->
 
 ### Part 2: Alluvial plot and stacked bar plot of power client interactions with ElderNet
 
@@ -308,7 +308,7 @@ care_management_anonymized %>%
        subtitle = '21 / 490 clients')
 ```
 
-![](week-3_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/week3fig2.png?raw=true)<!-- -->
 
 A bar plot for all interactions numbered between 30 and 60 inclusive
 shows that over this domain, the most popular `Benefit_1` values are
@@ -341,7 +341,7 @@ care_management_anonymized %>%
        subtitle = '21 / 490 clients')
 ```
 
-![](week-3_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](https://github.com/ghbutler/datathon2022/blob/main/week3fig3.png?raw=true)<!-- -->
 
 ### Part 3: Some questions/comments
 
